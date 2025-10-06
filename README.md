@@ -69,7 +69,7 @@ El proyecto sigue un flujo que comienza con la inspección de los datos y contin
   - Selección de características clave (como *SelectKBest* en SVM o la importancia de *Random Forest* en KNN).  
   - Aplicación de técnicas de balanceo (*SMOTE* o *RandomOverSampler*).  
   - Entrenamiento robusto mediante validación cruzada (*Cross Validation*).  
-- Los scripts guardarán sus modelos entrenados y artefactos de escalado en archivos **`.h5`** y **`.pkl`**.
+
 
 ---
 
