@@ -14,8 +14,8 @@ El objetivo es **predecir el riesgo de burnout en una población de estudio (mé
 | **KNN Proyecto Final.ipynb** | Implementación del modelo **K-Nearest Neighbors (KNN)**. Detalla la selección de características basada en importancia (*Random Forest*), reducción de dimensionalidad y el uso de *RobustScaler* y *RandomOverSampler*. |
 | **SVM Proyecto Final.ipynb** | Implementación del modelo **Support Vector Machine (SVM)**. Se enfoca en la selección de las 30 mejores características mediante *SelectKBest* y la optimización de hiperparámetros (*GridSearchCV*). |
 | **xgboost-final.ipynb** | Implementación del modelo **XGBoost** para clasificación y regresión. Realiza la imputación y conversión de tipos, transformación logarítmica para manejar la asimetría y análisis de la importancia de características. |
-| **Modelo arbol decision.csv** | ... |
-| **Regresion Logistica.csv** | ... |
+| **Modelo arbol decision.csv** | Implementación del modelo **Árbol de decisión**. Muestra los nodos con las decisiones de clasificación basadas en los factores más relevantes. Se prioriza la interpretabilidad del modelo, permitiendo visualizar las divisiones y umbrales clave que determinan los niveles de riesgo. |
+| **Regresion Logistica.csv** | Implementación del modelo **Regresión Logistíca**. Se analizan los coeficientes para identificar el peso de cada predictor sobre la probabilidad de presentar Burnout, aportando una base comparativa frente a modelos más complejos. |
 | **Proyecto_final.csv** | Dataset de entrada utilizado para todo el análisis. |
 | **Encuesta_Final_SinProcesar.csv** | Datos iniciales sin procesamiento. Contiene la explicación de las variables. |
 
