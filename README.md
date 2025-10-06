@@ -100,12 +100,15 @@ Los modelos fueron entrenados y evaluados utilizando las siguientes métricas, a
 - **Modelos de Referencia:** [PLACEHOLDER: Referencias clave para MBI, PERMA, LGS, etc.]
 - **MBI (Maslach Burnout Inventory):**  
   Maslach, C., Jackson, S. E., & Leiter, M. P. (1996). *Maslach Burnout Inventory Manual* (3rd ed.). Consulting Psychologists Press.
+  Metrica: evalúa tres dimensiones del burnout: agotamiento emocional, despersonalización y realización personal
 
 - **PERMA (Modelo de Bienestar):**  
   Seligman, M. E. P. (2011). *Flourish: A Visionary New Understanding of Happiness and Well-being.* Free Press.
+  Metrica: define el bienestar a partir de cinco pilares: Positive Emotion, Engagement, Relationships, Meaning, y Accomplishment. Representa el marco teórico de la Psicología Positiva moderna.
 
 - **LGS (Loyola Generativity Scale):**  
   McAdams, D. P., & de St. Aubin, E. (1992). *A theory of generativity and its assessment through self-report, behavioral acts, and narrative themes in autobiography.* Journal of Personality and Social Psychology, 62(6), 1003–1015.
+  Metrica: mide la generatividad, entendida como la preocupación y compromiso con guiar y contribuir al desarrollo de las generaciones futuras
 
 - **Tecnologías:** Documentación de [Python](https://www.python.org/), [Scikit-learn](https://scikit-learn.org/stable/), [TensorFlow / Keras](https://www.tensorflow.org/) y [XGBoost](https://xgboost.readthedocs.io/).
 
