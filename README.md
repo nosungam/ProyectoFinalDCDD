@@ -17,6 +17,7 @@ El objetivo es **predecir el riesgo de burnout en una población de estudio (mé
 | **Modelo arbol decision.csv** | ... |
 | **Regresion Logistica.csv** | ... |
 | **Proyecto_final.csv** | Dataset de entrada utilizado para todo el análisis. |
+| **Encuesta_Final_SinProcesar.csv** | Datos iniciales sin procesamiento. Contiene la explicación de las variables. |
 
 
 
