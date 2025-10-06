@@ -14,7 +14,10 @@ El objetivo es **predecir el riesgo de burnout en una población de estudio (mé
 | **KNN Proyecto Final.ipynb** | Implementación del modelo **K-Nearest Neighbors (KNN)**. Detalla la selección de características basada en importancia (*Random Forest*), reducción de dimensionalidad y el uso de *RobustScaler* y *RandomOverSampler*. |
 | **SVM Proyecto Final.ipynb** | Implementación del modelo **Support Vector Machine (SVM)**. Se enfoca en la selección de las 30 mejores características mediante *SelectKBest* y la optimización de hiperparámetros (*GridSearchCV*). |
 | **xgboost-final.ipynb** | Implementación del modelo **XGBoost** para clasificación y regresión. Realiza la imputación y conversión de tipos, transformación logarítmica para manejar la asimetría y análisis de la importancia de características. |
+| **Modelo arbol decision.csv** | ... |
+| **Regresion Logistica.csv** | ... |
 | **Proyecto_final.csv** | Dataset de entrada utilizado para todo el análisis. |
+
 
 
 ---
